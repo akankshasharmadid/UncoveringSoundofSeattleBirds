@@ -16,8 +16,7 @@ A neural network is a machine learning model based on the structure and function
 The input layer is the first layer of neurons in a neural network, and it receives raw data. The final layer of neurons is known as the output layer, and it is responsible for making the final predictions. The intermediate levels are known as hidden layers, and they perform intermediary calculations. A neural network adjusts the weights between neurons during training to increase its prediction accuracy. The network is fed a set of labeled training data, and an optimization method is used to update the weights such that the network's predictions are as close to the true labels as possible.
 
 Consider the neural network illustrated in Figure 1 as an example. It consists of three layers: an input layer, a hidden layer, and an output layer. The input layer comprises nodes representing four features, namely x1, x2, x3, and x4. Additionally, there are five activation functions denoted as A1, A2, A3, A4, and A5. These activation functions can be selected from a range of options such as Relu, tanh, sigmoid, softmax, and others. The choice of activation function depends on the specific objectives of the model and the performance characteristics of each function. Careful consideration is necessary to determine the most suitable activation functions for the desired outcomes.
-![Figure 1: Neural Network Architecture with input, hidden, and output layers.](/images/NeuralArchitecture.png)
-Figure 1: Neural Network Architecture with Input, Hidden, and Output Layers
+
 
 For instance, the Rectified Linear Unit (ReLU) activation function is a popular non-linear activation function used in neural networks. It is defined as:
 
