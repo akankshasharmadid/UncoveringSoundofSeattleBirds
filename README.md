@@ -124,4 +124,5 @@ The research employed different neural network models, including CNN and the Ima
 **References:**
 
 [1] Bird Competition data: Xeno Canto Bird Recordings (Extended A-M). Retrieved from https://www.kaggle.com/datasets/rohanrao/xeno-canto-bird-recordings-extended-a-m
+
 [2] Xeno-Canto. (n.d.). The world's largest community-driven sound library of bird songs and calls. Retrieved from https://xeno-canto.org/.
